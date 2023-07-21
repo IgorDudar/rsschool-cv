@@ -9,3 +9,19 @@
 ## About Me
 
 I study online RS SCHOOL courses. Chose the program "JavaScript/Front-end".
+
+## Skills:
+
+- JavaScript(Basic)
+- Git
+
+## Education:
+
+ - Moscow Institute of International Economic Relations
+ - Courses:
+   - it-academy.by (Computer Science)
+
+   ## English
+
+   A1
+   
